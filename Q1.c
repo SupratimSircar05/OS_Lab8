@@ -1,4 +1,4 @@
-//inter-process communication
+// inter-process communication through pipe() method
 
 #include <stdio.h>
 #include <string.h>

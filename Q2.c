@@ -1,4 +1,4 @@
-//child process writes content. Parent process reads content.
+// child process (created using fork() method) writes content. Parent process reads content.
 
 #include <stdio.h>
 #include <unistd.h>
